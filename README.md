@@ -14,6 +14,16 @@
 **배포 · 협업**  
 ![Docker](assets/stack/docker.svg) ![AWS](assets/stack/aws.svg) ![Nginx](assets/stack/nginx.svg) ![Linux](assets/stack/linux.svg) ![GitHub Actions](assets/stack/github-actions.svg) ![Git](assets/stack/git.svg)
 
+### 부트캠프 커리큘럼
+
+<sub>SK네트웍스 Family AI 캠프 · <a href="https://networks-aicamp.io/program">교육과정 안내</a></sub>
+
+**데이터 분석 · 수집**  
+![NumPy](assets/stack/numpy.svg) ![SQL](assets/stack/sql.svg) ![MySQL](assets/stack/mysql.svg) ![Beautiful Soup](assets/stack/beautiful-soup.svg) ![Selenium](assets/stack/selenium.svg)
+
+**웹 기초**  
+![HTML](assets/stack/html.svg) ![CSS](assets/stack/css.svg) ![JavaScript](assets/stack/javascript.svg)
+
 ## 대표작 · 창업ON
 
 창업 정책과 세무 질문에 답하고 사업계획서 작성을 돕는 팀 프로젝트입니다. 저는 **RAG 검색 비교·평가**, **사업계획서 PDF 출력**, **AWS 배포**를 맡았습니다.
