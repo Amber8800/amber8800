@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="244" viewBox="0 0 960 244" role="img" aria-labelledby="title">
+<title id="title">Amber8800 · Model evaluation, AI services and developer tools</title>
+<defs>
+  <linearGradient id="bg" x2="1" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#191914"/><stop offset="1" stop-color="#282419"/></linearGradient>
+  <pattern id="dots" width="15" height="15" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#8F815F" opacity=".27"/></pattern>
+</defs>
+<rect x="1" y="1" width="958" height="242" rx="18" fill="url(#bg)" stroke="#68593D" stroke-width="2"/>
+<path d="M591 20H929V224H591z" fill="url(#dots)"/>
+<path d="M47 56H80" stroke="#F5BF65" stroke-width="3"/>
+<text x="96" y="61" fill="#EEC888" font-family="monospace" font-size="17" letter-spacing="3">DEVELOPER PORTFOLIO</text>
+<text x="45" y="140" fill="#FFF6E6" font-family="system-ui, sans-serif" font-weight="750" font-size="72" letter-spacing="-2">Amber8800</text>
+<text x="49" y="185" fill="#E1D5BF" font-family="system-ui, sans-serif" font-size="24">Model evaluation · AI services · Dev tools</text>
+<g fill="none" stroke="#C59B58" stroke-width="2.4" stroke-linecap="round">
+  <path d="M611 139H676Q690 139 690 125V96Q690 82 704 82H802Q820 82 820 100V131Q820 145 834 145H905"/>
+  <path d="M676 139Q691 139 691 155V173Q691 187 705 187H774" opacity=".62"/>
+  <path d="M762 82V112Q762 126 776 126H792" opacity=".62"/>
+</g>
+<g stroke="#EDB45F" stroke-width="2.5" fill="#2A261A"><circle cx="619" cy="139" r="9"/><circle cx="762" cy="82" r="10"/><circle cx="882" cy="145" r="10"/><circle cx="773" cy="187" r="6"/><circle cx="793" cy="126" r="5"/></g>
+<g fill="#F6CB85"><circle cx="619" cy="139" r="3"/><circle cx="762" cy="82" r="4"/><circle cx="882" cy="145" r="4"/></g>
+<text x="607" y="112" fill="#E1D5BF" font-family="monospace" font-size="13" letter-spacing="1">DATA</text>
+<text x="716" y="55" fill="#E1D5BF" font-family="monospace" font-size="13" letter-spacing="1">MODEL</text>
+<text x="842" y="117" fill="#E1D5BF" font-family="monospace" font-size="13" letter-spacing="1">PRODUCT</text>
+</svg>
