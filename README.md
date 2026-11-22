@@ -21,9 +21,9 @@
 
 창업 정책과 세무 질문에 답하고 사업계획서 작성을 돕는 팀 프로젝트입니다. 저는 **RAG 검색 비교·평가**, **사업계획서 PDF 출력**, **AWS 배포**를 맡았습니다.
 
-[![창업ON 세무 어시스턴트 시연: 답변과 확인한 자료를 함께 표시한 화면](assets/startup-on-tax.webp)](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN34-4th-3Team/blob/main/Docs/data/gifs/3_%EC%84%B8%EB%AC%B4%EC%96%B4%EC%8B%9C%EC%8A%A4%ED%84%B4%ED%8A%B8.gif)
+<img src="https://raw.githubusercontent.com/SKNETWORKS-FAMILY-AICAMP/SKN34-4th-3Team/main/Docs/data/gifs/3_%EC%84%B8%EB%AC%B4%EC%96%B4%EC%8B%9C%EC%8A%A4%ED%84%B4%ED%8A%B8.gif" width="640" alt="창업ON 세무 어시스턴트 시연: 창업 세액감면 질문에 답변하고 참고 자료를 보여주는 화면">
 
-<sub>프로젝트 저장소의 팀 시연 화면입니다. 클릭하면 원본 GIF를 볼 수 있어요.</sub>
+<sub>창업ON 팀 시연 · 질문부터 답변과 근거 자료 확인까지</sub>
 
 [서비스 코드](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN34-4th-3Team) · [검색 평가 보고서](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN34-4th-3Team/blob/main/Docs/reports/ELASTICSEARCH_REPORT/RETRIEVER_FINAL_REPORT.md) · [PDF 출력 개선 PR](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN34-4th-3Team/pull/13)
 
