@@ -3,26 +3,19 @@
 ## 기술 스택
 
 **머신러닝 · 딥러닝**  
-![Python](assets/stack/python.svg) ![PyTorch](assets/stack/pytorch.svg) ![scikit-learn](assets/stack/scikit-learn.svg) ![XGBoost](assets/stack/xgboost.svg) ![pandas](assets/stack/pandas.svg)
+![Python](assets/stack/python.svg) ![PyTorch](assets/stack/pytorch.svg) ![scikit-learn](assets/stack/scikit-learn.svg) ![XGBoost](assets/stack/xgboost.svg) ![NumPy](assets/stack/numpy.svg) ![pandas](assets/stack/pandas.svg)
 
 **LLM · 백엔드**  
 ![LangChain](assets/stack/langchain.svg) ![LangGraph](assets/stack/langgraph.svg) ![FastAPI](assets/stack/fastapi.svg) ![Django](assets/stack/django.svg)
 
 **검색 · 데이터베이스**  
-![Elasticsearch](assets/stack/elasticsearch.svg) ![PostgreSQL · pgvector](assets/stack/pgvector.svg)
+![Elasticsearch](assets/stack/elasticsearch.svg) ![PostgreSQL · pgvector](assets/stack/pgvector.svg) ![SQL](assets/stack/sql.svg) ![MySQL](assets/stack/mysql.svg)
+
+**웹 · 데이터 수집**  
+![HTML](assets/stack/html.svg) ![CSS](assets/stack/css.svg) ![JavaScript](assets/stack/javascript.svg) ![Beautiful Soup](assets/stack/beautiful-soup.svg) ![Selenium](assets/stack/selenium.svg)
 
 **배포 · 협업**  
 ![Docker](assets/stack/docker.svg) ![AWS](assets/stack/aws.svg) ![Nginx](assets/stack/nginx.svg) ![Linux](assets/stack/linux.svg) ![GitHub Actions](assets/stack/github-actions.svg) ![Git](assets/stack/git.svg)
-
-### 부트캠프 커리큘럼
-
-<sub>SK네트웍스 Family AI 캠프 · <a href="https://networks-aicamp.io/program">교육과정 안내</a></sub>
-
-**데이터 분석 · 수집**  
-![NumPy](assets/stack/numpy.svg) ![SQL](assets/stack/sql.svg) ![MySQL](assets/stack/mysql.svg) ![Beautiful Soup](assets/stack/beautiful-soup.svg) ![Selenium](assets/stack/selenium.svg)
-
-**웹 기초**  
-![HTML](assets/stack/html.svg) ![CSS](assets/stack/css.svg) ![JavaScript](assets/stack/javascript.svg)
 
 ## 대표작 · 창업ON
 
