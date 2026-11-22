@@ -12,7 +12,7 @@
 ![Elasticsearch](assets/stack/elasticsearch.svg) ![PostgreSQL · pgvector](assets/stack/pgvector.svg) ![SQL](assets/stack/sql.svg) ![MySQL](assets/stack/mysql.svg)
 
 **웹 · 데이터 수집**  
-![HTML](assets/stack/html.svg) ![CSS](assets/stack/css.svg) ![JavaScript](assets/stack/javascript.svg) ![Beautiful Soup](assets/stack/beautiful-soup.svg) ![Selenium](assets/stack/selenium.svg)
+![HTML](assets/stack/html.svg) ![CSS](assets/stack/css.svg) ![Beautiful Soup](assets/stack/beautiful-soup.svg) ![Selenium](assets/stack/selenium.svg)
 
 **배포 · 협업**  
 ![Docker](assets/stack/docker.svg) ![AWS](assets/stack/aws.svg) ![Nginx](assets/stack/nginx.svg) ![Linux](assets/stack/linux.svg) ![GitHub Actions](assets/stack/github-actions.svg) ![Git](assets/stack/git.svg)
