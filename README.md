@@ -2,14 +2,17 @@
 
 ## 기술 스택
 
-**모델링**  
-![Python](assets/stack/python.svg) ![PyTorch](assets/stack/pytorch.svg) ![XGBoost](assets/stack/xgboost.svg)
+**머신러닝 · 딥러닝**  
+![Python](assets/stack/python.svg) ![PyTorch](assets/stack/pytorch.svg) ![scikit-learn](assets/stack/scikit-learn.svg) ![XGBoost](assets/stack/xgboost.svg) ![pandas](assets/stack/pandas.svg)
 
-**RAG · 백엔드**  
-![LangGraph](assets/stack/langgraph.svg) ![Django](assets/stack/django.svg) ![PostgreSQL · pgvector](assets/stack/pgvector.svg)
+**LLM · 백엔드**  
+![LangChain](assets/stack/langchain.svg) ![LangGraph](assets/stack/langgraph.svg) ![FastAPI](assets/stack/fastapi.svg) ![Django](assets/stack/django.svg)
 
-**배포**  
-![Docker](assets/stack/docker.svg) ![AWS](assets/stack/aws.svg)
+**검색 · 데이터베이스**  
+![Elasticsearch](assets/stack/elasticsearch.svg) ![PostgreSQL · pgvector](assets/stack/pgvector.svg)
+
+**배포 · 협업**  
+![Docker](assets/stack/docker.svg) ![AWS](assets/stack/aws.svg) ![Nginx](assets/stack/nginx.svg) ![Linux](assets/stack/linux.svg) ![GitHub Actions](assets/stack/github-actions.svg) ![Git](assets/stack/git.svg)
 
 ## 대표작 · 창업ON
 
