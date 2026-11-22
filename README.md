@@ -10,12 +10,12 @@
 
 ## 협업 프로젝트
 
-### 창업ON · 창업 지원 AI
+### [창업ON](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN34-4th-3Team) · 창업 지원 AI
 
 창업 정책과 세무 질문에 답하고 사업계획서 작성을 돕는 서비스입니다.
 
-**맡은 일:** RAG 검색 비교·평가, 사업계획서 PDF 출력, AWS 배포  
-[저장소](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN34-4th-3Team) · [검색 평가 보고서](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN34-4th-3Team/blob/main/Docs/reports/ELASTICSEARCH_REPORT/RETRIEVER_FINAL_REPORT.md) · [PDF 출력 개선 PR](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN34-4th-3Team/pull/13)
+**맡은 일:** RAG 검색 비교·평가, 사업계획서 PDF 출력, AWS 배포
+
 
 <img src="https://raw.githubusercontent.com/SKNETWORKS-FAMILY-AICAMP/SKN34-4th-3Team/main/Docs/data/gifs/3_%EC%84%B8%EB%AC%B4%EC%96%B4%EC%8B%9C%EC%8A%A4%ED%84%B4%ED%8A%B8.gif" width="640" alt="창업ON 세무 어시스턴트 시연: 창업 세액감면 질문에 답변하고 참고 자료를 보여주는 화면">
 
@@ -25,15 +25,15 @@
 
 피부 이미지 분석 결과를 바탕으로 화장품을 추천하는 서비스입니다.
 
-**맡은 일:** 피부 이미지 분류 모델 학습, 동일한 데이터 분할에서 손실 함수와 최적화 방법 비교  
-[저장소](https://github.com/gyuniverse-hq/SKN34-Final-Project) · [학습 조건·비교 결과](https://github.com/gyuniverse-hq/SKN34-Final-Project/blob/05ab63d4bb0d2bba7cb5777f3956c6e0381cbcfe/reports/skin-analysis/03-today-results.md#L26)
+**맡은 일:** 피부 이미지 분류 모델 학습, 동일한 데이터 분할에서 손실 함수와 최적화 방법 비교
+
 
 ### [Doeep](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN34-2nd-6Team) · 정기후원자 이탈 예측
 
 후원 이력이 있는 사람의 이탈 위험을 예측하는 대시보드입니다.
 
-**맡은 일:** 팀 PM, XGBoost 모델을 후원자 데이터 일괄 예측 기능에 연동  
-[저장소](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN34-2nd-6Team) · [모델 연동 커밋](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN34-2nd-6Team/commit/def21df0cb23b01ae848930eb38b9d541a4cee53)
+**맡은 일:** 팀 PM, XGBoost 모델을 후원자 데이터 일괄 예측 기능에 연동
+
 
 ## 개인 프로젝트 · AmberTrail
 
